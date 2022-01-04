@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me @Forbeshrs
+- 📫 Reach me at hong.rs10@gmail.com
 
 <!---
 Forbeshrs/Forbeshrs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
